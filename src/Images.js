@@ -1,0 +1,15 @@
+export const Images = {
+  About: "./Image/AboutK.jpg",
+  Benefits: "./Image/BeniiftImg.jpg",
+  Benefits2: "./Image/BeniiftImg2.jpg",
+  BorderBlue: "./Image/BorderBlue.png",
+  BorderImage: "./Image/borderImage.png",
+  NotFound: "./Image/record-not-found.png",
+  BorderImageYellow: "./Image/borderImageYellow.png",
+  BorderYellow: "./Image/BorderYellow.png",
+  Logo: "./Image/Logo.png",
+  FooterLogo: "./Image/FooterLogo.png",
+  ImageWhite: "./Image/ImageWhite.png",
+  LandingPageTwo: "./Image/LandingPageTwo.jpg",
+  UserLanding: "./Image/userLanding.png",
+};
